@@ -72,3 +72,4 @@ X_train_full, X_valid_full, y_train, y_valid = train_test_split(X, y, train_size
 # submission = pd.DataFrame({'Id': test.Id, 'SalePrice':preds})
 # submission.set_index('Id')
 # submission.to_csv('submission1.csv', index=False)
+#prabesh adhikari
